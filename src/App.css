@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  height: 100%;
+}
+
+.card-wrapper {
+  margin: 24px 10px 0;
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  flex-wrap: wrap;
+}
+
+.title {
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 42px;
+  margin: 36px auto 24px;
+}
+
+@media screen and (max-width: 1140px) {
+  .card-wrapper {
+    gap: 20px;
+  }
+}

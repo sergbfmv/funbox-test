@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Exo';
+  src: local('Exo') url(./Exo.otf) format("otf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Exo';
+  src: local('Exo') url(./Exo.otf) format("otf");
+  font-weight: 700;
+}
